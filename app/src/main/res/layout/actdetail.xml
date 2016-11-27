@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/actdetail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   tools:context="map90.iii.org.tw.tdee.Actdetail"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lbldetail"
+        android:text="您的每日消耗總熱量"
+        android:textSize="30dp"/>
+
+
+
+</LinearLayout>

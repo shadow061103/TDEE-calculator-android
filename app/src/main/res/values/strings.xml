@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TDEE</string>
+
+    <string-array name="activity_list">
+        <item>完全沒有運動</item>
+        <item>一週運動三次</item>
+        <item>一週運動四次 </item>
+        <item>一週運動五次</item>
+        <item>一週運動六次</item>
+        <item>一週運動七次 </item>
+
+
+    </string-array>
+    <string name="activity_list_prompt">請選擇活動強度</string>
+    <string-array name="goal_list">
+        <item>最少增肌5%</item>
+        <item>正常增肌10%</item>
+        <item>瘋狂增肌15%</item>
+        <item>正常減脂-15%</item>
+        <item>瘋狂減脂-20%</item>
+        <item>可能消耗肌肉-25%</item>
+
+
+    </string-array>
+    <string name="goal_list_prompt">請選擇運動目標</string>
+</resources>
